@@ -84,7 +84,7 @@ button {
   font-weight: bold;
 }
 
-.section-2 {
+.section-random-info {
   background-color: #ffffff;
 }
 
@@ -93,4 +93,27 @@ button {
   font-size: 36px;
   font-weight: 800;
   color: #1f2937;
+}
+
+.ilustrations {
+  display: flex;
+  margin-bottom: 120px;
+  justify-content: center;
+}
+
+.ilustration-item {
+  padding: 5px;
+  border: 5px solid #3882f6;
+  border-radius: 14px;
+  width: 140px;
+  height: 140px;
+  margin: 10px;
+}
+
+.ilustration-text {
+  padding: 15px;
+}
+
+.section-quote {
+  background-color: #e5e7eb;
 }
